@@ -12,7 +12,7 @@ const HomeCard = ({ data }) => {
             <CardBody maxH={"400px"} overflow={"scroll"}>
                 <Stack divider={<StackDivider />} spacing='4'>
                     {data?.map((el, i) => (
-                        <Link to={`/${el?.id}`} key={i} >
+                        <Link to={`/${el?.id}`}  >
                             <Flex justifyContent={"space-between"} gap={"20px"} alignItems={"center"} >
                                 <Image h={"70px"} w={"70px"} borderRadius={"50%"} src={el?.profilepicture} alt="error" />
                                 <Text fontSize='sm'>
