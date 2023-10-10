@@ -2,7 +2,12 @@
 
 ## About
 
-This project, "Panorbit," is a frontend assignment issued by Panorbit Services LLP. The primary goal of this assignment is to demonstrate coding proficiency, attention to detail, and adherence to best coding standards while developing a user interface using Angular.js.
+This project, 'Panorbit,' represents a frontend assignment commissioned by Panorbit Services LLP. The primary objective of this task is to showcase exceptional coding skills, meticulous attention to detail, and a commitment to adhering to industry-best coding standards while crafting a user interface using Angular.js.
+
+## Demo
+
+- Demo: [Panorbit Demo](https://panorbit-tizp6y8rh-subodhsingh8543.vercel.app/)
+- API Endpoints: [API Endpoints](https://panorbit.in/api/users.json)
 
 ## Features
 
@@ -29,3 +34,9 @@ To run this Angular.js application locally, follow these steps:
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/SubodhSingh8543/your-repo.git
+
+2. Install dependencies: npm install
+
+3. Start the project: npm start 
+    
+   
