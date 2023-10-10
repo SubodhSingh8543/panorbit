@@ -1,8 +1,8 @@
-# Panorbit - Angular.js Frontend Assignment
+# Panorbit - React.js Frontend Assignment
 
 ## About
 
-This project, 'Panorbit,' represents a frontend assignment commissioned by Panorbit Services LLP. The primary objective of this task is to showcase exceptional coding skills, meticulous attention to detail, and a commitment to adhering to industry-best coding standards while crafting a user interface using Angular.js.
+This project, 'Panorbit,' represents a frontend assignment commissioned by Panorbit Services LLP. The primary objective of this task is to showcase exceptional coding skills, meticulous attention to detail, and a commitment to adhering to industry-best coding standards while crafting a user interface using React.js.
 
 ## Demo
 
@@ -38,5 +38,3 @@ To run this Angular.js application locally, follow these steps:
 2. Install dependencies: npm install
 
 3. Start the project: npm start 
-    
-   
