@@ -19,9 +19,9 @@ The landing page displays a scrollable list of user accounts, allowing users to 
 
 The profile home page provides comprehensive details about a selected user, enabling users to learn more about the chosen profile.
 
-### 3. Change/Add Profile
+### 3. Maps
 
-This feature allows users to change their profile information and access various essential functionalities, ensuring a seamless user experience.
+This feature allows users to see there respective location on google maps
 
 ### 4. Chat Box
 
